@@ -1,0 +1,13 @@
+Spotify Clone
+
+- Utilización de autenticación / User Authentication
+
+- Llamado API Spotify / Call Spotify's API
+
+- Diseño responsivo / Responsive Design
+
+- Material UI
+
+- Contexto de API de React (Redux) /React Context API
+
+- React Hooks
